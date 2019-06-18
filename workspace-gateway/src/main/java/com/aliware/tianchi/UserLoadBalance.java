@@ -1,8 +1,5 @@
 package com.aliware.tianchi;
 
-/**
- * Created by lds on 2019/6/18.
- */
 import org.apache.dubbo.common.Constants;
 import org.apache.dubbo.common.URL;
 import org.apache.dubbo.rpc.Invocation;
